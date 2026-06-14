@@ -4,9 +4,8 @@
 
 ### Accounting | ESG Disclosure | Business Analytics | AI for Sustainability
 
-[![Homepage](https://img.shields.io/badge/Homepage-hujiayu0211.github.io-2f80ed)](https://hujiayu0211.github.io/)
+[![Homepage](https://img.shields.io/badge/Homepage-jiayuhu.com-2f80ed)](https://www.jiayuhu.com/))
 [![Email](https://img.shields.io/badge/Email-hujiayu211%40gmail.com-D14836)](mailto:hujiayu211@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-hujiayu211-181717)](https://github.com/hujiayu211)
 
 An early-stage interdisciplinary researcher bridging accounting, ESG disclosure, business analytics, and AI-driven sustainability intelligence.
 
