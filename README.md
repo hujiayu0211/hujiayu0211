@@ -46,8 +46,6 @@ I aspire to build **sustainable, trustworthy data infrastructure for ESG complia
 <div align="center">
 
 <img height="165" src="https://github-readme-stats-n8hn.vercel.app/api?username=hujiayu0211&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com/?user=hujiayu0211&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-
 <img height="165" src="https://github-readme-stats-n8hn.vercel.app/api/top-langs/?username=hujiayu0211&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" />
 
 <br/>
