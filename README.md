@@ -36,7 +36,7 @@ I aspire to build **sustainable, trustworthy data infrastructure for ESG complia
 | Project | Description | Methods |
 | :--- | :--- | :--- |
 | **[ESG Disclosure & Investment Efficiency](https://github.com/hujiayu0211/ESG-Disclosure-and-Investment-Efficiency)** | Final Year Project — how ESG disclosure quality shapes corporate investment efficiency in Chinese A-share firms (2013–2023), with an information-transparency mediation channel. | Fixed Effects · 2SLS · System GMM · Bootstrap Mediation |
-| **[ESG-Augmented Corporate Credit Risk Prediction](#)** *(link TBC)* | Default-risk prediction enriched with ESG signals, with interpretability analysis to explain which factors drive predicted risk. | XGBoost · SHAP · PDP |
+| **[ESG-Augmented Corporate Credit Risk Prediction](https://github.com/hujiayu0211/esg-credit-risk-xai)** | Default-risk prediction enriched with ESG signals, with interpretability analysis to explain which factors drive predicted risk. | XGBoost · SHAP · PDP |
 | **CarbonProof Chain** 🚧 *In progress* | An AI evidence-chain pipeline that extracts sustainability-disclosure claims, matches them to page-located evidence, and scores consistency for audit. | LLM · RAG · Knowledge Graph |
 
 ---
