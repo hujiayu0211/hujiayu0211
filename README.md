@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=900&height=60&lines=Hi+%F0%9F%91%8B+I'm+Jiyu+(Jasper)+Hu;ESG+Disclosure+%C2%B7+Greenwashing+%C2%B7+Financial+NLP" alt="Jiyu (Jasper) Hu" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=900&height=60&lines=Hi+%F0%9F%91%8B+I'm+Jiayu+(Jasper)+Hu;ESG+Disclosure+%C2%B7+Greenwashing+%C2%B7+Financial+NLP" alt="Jiyu (Jasper) Hu" />
 
 ### 🌐 [Explore my full homepage →](https://www.jiayuhu.com/)
 
