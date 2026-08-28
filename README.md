@@ -6,7 +6,7 @@
 
 🎓 MCom Business Analytics @ **UNSW Sydney**
 🌱 Turning corporate sustainability claims into **verifiable, evidence-grounded intelligence**
-📫 Email: **jiayu.hu1[@]student.unsw.edu.au**
+📫 Email: **jiayu.hu1[@]unsw.edu.au**
 
 </div>
 
