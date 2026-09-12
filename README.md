@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=900&height=60&lines=Hi+%F0%9F%91%8B+I'm+Jiayu+(Jasper)+Hu;ESG+Disclosure+%C2%B7+Greenwashing+%C2%B7+Financial+NLP" alt="Jiyu (Jasper) Hu" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=900&height=60&lines=Hi+%F0%9F%91%8B+I'm+Jiayu+(Jasper)+Hu;LLM+Evaluation+%C2%B7+Knowledge+Graphs+%C2%B7+ESG+Disclosure" alt="Jiayu (Jasper) Hu" />
 
 ### 🌐 [Explore my full homepage →](https://www.jiayuhu.com/)
 
@@ -14,11 +14,11 @@
 
 ## 🔬 Research Interests
 
-**Responsible & Trustworthy Data Intelligence for ESG Disclosure**
-I work on making corporate sustainability claims *verifiable*: extracting claims from multimodal ESG reports, linking them to source evidence, and scoring their consistency to surface greenwashing risk. This sits at the intersection of responsible data intelligence and financial NLP.
+**Evaluation of LLM Systems for Disclosure Assessment**
+I work on whether a machine judgement about corporate disclosure can be *checked*. That means building independently annotated benchmarks, diagnosing where reported accuracy comes from, and separating retrieval failure from judgement error rather than reporting a single headline score.
 
-**Evidence-Grounded Generative Systems (RAG / LLM Agents)**
-I build retrieval-augmented and agentic pipelines that trace every generated judgment back to a locatable page, table, or figure, prioritising auditability, scoring consistency, and traceable evidence chains over raw generation.
+**Knowledge Representation & Evidence-Grounded Retrieval**
+I represent what a reporting standard actually requires in a form a machine can execute, then retrieve the passages that could satisfy it and test the evidence against those conditions. Every conclusion should trace back to a locatable page, table, or figure.
 
 **Empirical & Causal Grounding**
 An accounting and econometrics background anchors the work: panel fixed effects, 2SLS, and system GMM on large-scale A-share datasets. I care about connecting rigorous empirical evidence with AI systems people can actually trust.
@@ -35,9 +35,12 @@ I aspire to build **sustainable, trustworthy data infrastructure for ESG complia
 
 | Project | Description | Methods |
 | :--- | :--- | :--- |
-| **[ESG Disclosure & Investment Efficiency](https://github.com/hujiayu0211/ESG-Disclosure-and-Investment-Efficiency)** | Final Year Project — how ESG disclosure quality shapes corporate investment efficiency in Chinese A-share firms (2013–2023), with an information-transparency mediation channel. | Fixed Effects · 2SLS · System GMM · Bootstrap Mediation |
+| **EulerESG** 📄 *Under review* | Co-authored platform paper for standards-aware ESG disclosure analysis, submitted to the IEEE ICDM 2026 Demo Track. I contributed the ESG domain layer across SASB, GRI, TCFD and AASB, and co-drafted the manuscript. | Multimodal Parsing · Hybrid Retrieval · LLM Inference |
+| **Evaluation Integrity for ESG Disclosure Assessment** 🚧 *In progress* | Diagnostics and an independently annotated benchmark for ESG disclosure scoring. Found that reference labels had been produced by editing the system's own output, and designed a blind re-annotation protocol to replace them. | Benchmark Design · Annotation Protocol · Reproducibility |
+| **[ESG Disclosure & Investment Efficiency](https://github.com/hujiayu0211/ESG-Disclosure-and-Investment-Efficiency)** | Honours Thesis — how ESG disclosure quality shapes corporate investment efficiency in Chinese A-share firms (2013–2023), with an information-transparency mediation channel. | Fixed Effects · 2SLS · System GMM · Bootstrap Mediation |
 | **[ESG-Augmented Corporate Credit Risk Prediction](https://github.com/hujiayu0211/esg-credit-risk-xai)** | Default-risk prediction enriched with ESG signals, with interpretability analysis to explain which factors drive predicted risk. | XGBoost · SHAP · PDP |
-| **CarbonProof Chain** 🚧 *In progress* | An AI evidence-chain pipeline that extracts sustainability-disclosure claims, matches them to page-located evidence, and scores consistency for audit. | LLM · RAG · Knowledge Graph |
+| **[Multi-Factor Quantitative Stock Selection](https://github.com/hujiayu0211/Multi-Factor-Quant-Stock-Selection)** | Point-in-time factor research and backtesting across 498,893 stock-months of A-share data (2015–2025), with strict look-ahead controls. | Rank-IC · ICIR · LightGBM · Backtesting |
+| **Carbon Chain** 🚧 *In progress* | Cross-border sustainability disclosure verification built on the EulerESG platform, representing ESG entities, claim–evidence links, provenance and time in a four-layer graph. | Knowledge Graph · Evidence Traceability · RAG |
 
 ---
 
@@ -50,7 +53,7 @@ I aspire to build **sustainable, trustworthy data infrastructure for ESG complia
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=py,r,pytorch,tensorflow,git,github,vscode,latex,mysql,docker,linux,html,css,js,cloudflare&perline=8" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=py,r,pytorch,git,github,vscode,latex,mysql,docker,linux,html,css,js,cloudflare&perline=8" alt="Tech stack" />
 
 <sub>Also: scikit-learn · pandas · NumPy · XGBoost · statsmodels · linearmodels · SHAP</sub>
 
@@ -63,8 +66,8 @@ I aspire to build **sustainable, trustworthy data infrastructure for ESG complia
 <div align="center">
 
 [![Homepage](https://img.shields.io/badge/Homepage-jiayuhu.com-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.jiayuhu.com/)
-[![Email](https://img.shields.io/badge/Email-hujiayu211%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hujiayu211@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jiyu%20Hu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiayu-hu-0941563b3/)
+[![Email](https://img.shields.io/badge/Email-jiayu.hu1%40unsw.edu.au-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jiayu.hu1@unsw.edu.au)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jiayu%20Hu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiayu-hu-0941563b3/)
 [![GitHub](https://img.shields.io/badge/GitHub-hujiayu0211-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hujiayu0211)
 
 </div>
