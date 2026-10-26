@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=900&height=60&lines=Hi+%F0%9F%91%8B+I'm+Jiayu+(Jasper)+Hu;LLM+Evaluation+%C2%B7+Knowledge+Graphs+%C2%B7+ESG+Disclosure" alt="Jiayu (Jasper) Hu" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=3500&pause=1000&color=2F5D43&center=true&vCenter=true&width=900&height=60&lines=Hi+%F0%9F%91%8B+I'm+Jiayu+(Jasper)+Hu;LLM+Evaluation+%C2%B7+Knowledge+Graphs+%C2%B7+ESG+Disclosure" alt="Jiayu (Jasper) Hu" />
 
 ### 🌐 [Explore my full homepage →](https://www.jiayuhu.com/)
 
-🎓 MCom Business Analytics @ **UNSW Sydney**
-🌱 Turning corporate sustainability claims into **verifiable, evidence-grounded intelligence**
+🎓 MCom Business Analytics @ **UNSW Sydney**<br>
+🔬 Student Researcher @ **[RAIDS Lab](https://raids-lab.com/), University of Sydney**<br>
+🌱 Turning corporate sustainability claims into **verifiable, evidence-grounded intelligence**<br>
 📫 Email: **jiayu.hu1[@]unsw.edu.au**
 
 </div>
@@ -35,12 +36,12 @@ I aspire to build **sustainable, trustworthy data infrastructure for ESG complia
 
 | Project | Description | Methods |
 | :--- | :--- | :--- |
-| **EulerESG** 📄 *Under review* | Co-authored platform paper for standards-aware ESG disclosure analysis, submitted to the IEEE ICDM 2026 Demo Track. I contributed the ESG domain layer across SASB, GRI, TCFD and AASB, and co-drafted the manuscript. | Multimodal Parsing · Hybrid Retrieval · LLM Inference |
-| **Evaluation Integrity for ESG Disclosure Assessment** 🚧 *In progress* | Diagnostics and an independently annotated benchmark for ESG disclosure scoring. Found that reference labels had been produced by editing the system's own output, and designed a blind re-annotation protocol to replace them. | Benchmark Design · Annotation Protocol · Reproducibility |
-| **[ESG Disclosure & Investment Efficiency](https://github.com/hujiayu0211/ESG-Disclosure-and-Investment-Efficiency)** | Honours Thesis — how ESG disclosure quality shapes corporate investment efficiency in Chinese A-share firms (2013–2023), with an information-transparency mediation channel. | Fixed Effects · 2SLS · System GMM · Bootstrap Mediation |
+| **[EulerESG](https://www.jiayuhu.com/publications.html)** 📄 *Accepted* | Co-authored platform paper for standards-aware ESG disclosure analysis, accepted to the IEEE ICDM 2026 Demo Track. I contributed the ESG domain layer across SASB, GRI, TCFD and AASB, and co-drafted the manuscript. | Multimodal Parsing · Hybrid Retrieval · LLM Inference |
+| **Reproducible Diagnostics & Benchmark Design for ESG Disclosure Assessment** 🚧 *In progress* | Diagnostics and an independently annotated benchmark that test whether language-model judgements of ESG disclosure can be trusted as measurement, including a blind annotation protocol for the reference labels. | Benchmark Design · Annotation Protocol · Reproducibility |
+| **[ESG Disclosure & Investment Efficiency](https://github.com/hujiayu0211/ESG-Disclosure-and-Investment-Efficiency)** | Honours Thesis — how ESG disclosure quality shapes corporate investment efficiency in Chinese A-share firms (2013–2023), with an information-transparency mediation channel. Received the Excellent Final Year Project Award. | Fixed Effects · 2SLS · System GMM · Bootstrap Mediation |
 | **[ESG-Augmented Corporate Credit Risk Prediction](https://github.com/hujiayu0211/esg-credit-risk-xai)** | Default-risk prediction enriched with ESG signals, with interpretability analysis to explain which factors drive predicted risk. | XGBoost · SHAP · PDP |
 | **[Multi-Factor Quantitative Stock Selection](https://github.com/hujiayu0211/Multi-Factor-Quant-Stock-Selection)** | Point-in-time factor research and backtesting across 498,893 stock-months of A-share data (2015–2025), with strict look-ahead controls. | Rank-IC · ICIR · LightGBM · Backtesting |
-| **Carbon Chain** 🚧 *In progress* | Cross-border sustainability disclosure verification built on the EulerESG platform, representing ESG entities, claim–evidence links, provenance and time in a four-layer graph. | Knowledge Graph · Evidence Traceability · RAG |
+| **Carbon Chain** 🚧 *In progress* | Cross-border sustainability disclosure verification built on the EulerESG platform, designed around a four-layer graph of ESG entities, claim–evidence links, provenance and time. | Knowledge Graph · Evidence Traceability · RAG |
 
 ---
 
@@ -65,7 +66,7 @@ I aspire to build **sustainable, trustworthy data infrastructure for ESG complia
 
 <div align="center">
 
-[![Homepage](https://img.shields.io/badge/Homepage-jiayuhu.com-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.jiayuhu.com/)
+[![Homepage](https://img.shields.io/badge/Homepage-jiayuhu.com-2F5D43?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.jiayuhu.com/)
 [![Email](https://img.shields.io/badge/Email-jiayu.hu1%40unsw.edu.au-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jiayu.hu1@unsw.edu.au)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jiayu%20Hu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiayu-hu-0941563b3/)
 [![GitHub](https://img.shields.io/badge/GitHub-hujiayu0211-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hujiayu0211)
